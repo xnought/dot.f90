@@ -1,6 +1,6 @@
 # dot.f90
 
-Hello Wolrd dot product script for fortran90. Sped up with `make build-fast` to product the `fdot` executable which uses openmp for parallel processing.
+Hello Wolrd dot product script for fortran90. Sped up with `make build-fast` to produce the `fdot` executable which uses openmp for parallel processing.
 
 ```fortran
 integer function dot(A, B)
